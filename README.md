@@ -1,4 +1,4 @@
 # omfastitva-firstbase
 pratham repository
-director-anant krishna pandey(chad)
+director-anant krishna pandey
 
